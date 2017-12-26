@@ -1,16 +1,8 @@
 
   <!DOCTYPE html>
   <html>
-    <head>
-      <title>Shopify Backend Intern Challenge - Summer 2018</title>
-      <style>
 
-
-      </style>
-    </head>
-    <body>
-      <div class="content">
-        <h1>Backend Intern Challenge - Summer 2018</h1>
+<h1>Backend Intern Challenge - Summer 2018</h1>
 <h2>Problem</h2>
 <p>Different merchants have different products. Menus are a great way to present
 these products in an intuitive way to customers.</p>
@@ -150,6 +142,4 @@ The max depth of a Menu is <strong>4</strong>.</p>
 <p><a href="https://backend-challenge-summer-2018.herokuapp.com/challenges.json?id=2&amp;page=1">https://backend-challenge-summer-2018.herokuapp.com/challenges.json?id=2&amp;page=1</a></p>
 <p>This will return the first page of nodes. You can obtain subsequent pages by incrementing the <code>page</code> query parameter.</p>
 
-      </div>
-    </body>
-  </html>
+
